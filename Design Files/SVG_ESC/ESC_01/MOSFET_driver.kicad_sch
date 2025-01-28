@@ -6597,7 +6597,7 @@
 	)
 	(global_label "SENS1"
 		(shape input)
-		(at 223.52 135.89 0)
+		(at 222.25 135.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6607,7 +6607,7 @@
 		)
 		(uuid "5a426e58-fbfd-4419-aeef-c50e29bae833")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.6132 135.89 0)
+			(at 231.3432 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
